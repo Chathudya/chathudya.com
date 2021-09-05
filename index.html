@@ -38,20 +38,49 @@
           font-weight: 600;
           margin-left: -3px;
         }
+        .typewriter {
+            display: inline-block;
+        }
+
+        .typewriter-text {
+            display: inline-block;
+            overflow: hidden;
+            letter-spacing: 2px;
+            animation: typing 5s steps(30, end), blink .75s step-end infinite;
+            white-space: nowrap;
+            font-size: 30px;
+            box-sizing: border-box;
+        }
+
+@keyframes typing {
+    from { 
+        width: 0% 
+    }
+    to { 
+        width: 100% 
+    }
+}
+
+@keyframes blink {
+    from, to { 
+        border-color: transparent 
+    }
+    50% { 
+        border-color: orange; 
+    }
+}
     </style>
 </head>
 <body>
 <div>
  <section class="home" id="home">
-   <div class="home-content">
-     <div class="text">
+   <div class=typewriter>
+     <div class="typewriter-text">
        <div class="text-one">Hello,</div>
        <div class="text-two">I'm Chathudya</div>
      </div>
    </div>
  </section>
-    
-
 </div>
 </body>
 </html>
