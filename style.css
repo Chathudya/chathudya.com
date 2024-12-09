@@ -78,6 +78,9 @@ body {
     margin-bottom: 20px;
     color: #333333;
 }
+#contact {
+    scroll-margin-top: 100px; /* Adjust the value to create space */
+}
 
 #contact a {
     color: #4a90e2; /* Soft Blue */
