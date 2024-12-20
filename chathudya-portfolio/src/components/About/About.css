@@ -1,0 +1,23 @@
+.about-container {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.about-container h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: var(--heading-color);
+}
+
+.about-content p {
+    font-size: 1.1rem;
+    color: var(--text-color);
+    margin-bottom: 20px;
+}
+
+.divider {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 1.5rem;
+    color: var(--divider-color);
+}
