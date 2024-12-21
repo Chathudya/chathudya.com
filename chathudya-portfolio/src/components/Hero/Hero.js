@@ -12,10 +12,10 @@ const Hero = () => {
                 className="hero-image"
             />
             <h1>
-                Hi, I'm <span className="highlight">Chathudya</span>
+                Hi, I'm <span className="highlight">Chathudya 👋</span>
             </h1>
             <p className="subheading">
-                Software Quality Assurance Engineer | Continuous Learner | Problem Solver
+                💻 Software Quality Assurance Engineer | 📚 Lifelong Learner | 🧩 Creative Problem Solver
             </p>
             <button
                 className="cta-button"
