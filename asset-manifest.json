@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chathudya.com/static/css/main.f4b342b7.chunk.css",
-    "main.js": "/chathudya.com/static/js/main.01a8266b.chunk.js",
-    "main.js.map": "/chathudya.com/static/js/main.01a8266b.chunk.js.map",
+    "main.js": "/chathudya.com/static/js/main.aa435255.chunk.js",
+    "main.js.map": "/chathudya.com/static/js/main.aa435255.chunk.js.map",
     "runtime~main.js": "/chathudya.com/static/js/runtime~main.870b3f0b.js",
     "runtime~main.js.map": "/chathudya.com/static/js/runtime~main.870b3f0b.js.map",
     "static/js/2.5639773c.chunk.js": "/chathudya.com/static/js/2.5639773c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.132715ea.chunk.js": "/chathudya.com/static/js/3.132715ea.chunk.js",
     "static/js/3.132715ea.chunk.js.map": "/chathudya.com/static/js/3.132715ea.chunk.js.map",
     "index.html": "/chathudya.com/index.html",
-    "precache-manifest.b84612129769917309dadeb1f03eb078.js": "/chathudya.com/precache-manifest.b84612129769917309dadeb1f03eb078.js",
+    "precache-manifest.e136b13f01ab4d6bb824498494adbda6.js": "/chathudya.com/precache-manifest.e136b13f01ab4d6bb824498494adbda6.js",
     "service-worker.js": "/chathudya.com/service-worker.js",
     "static/css/main.f4b342b7.chunk.css.map": "/chathudya.com/static/css/main.f4b342b7.chunk.css.map",
     "static/media/chathudya.jpeg": "/chathudya.com/static/media/chathudya.880aafd9.jpeg"

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chathudya.com/precache-manifest.b84612129769917309dadeb1f03eb078.js"
+  "/chathudya.com/precache-manifest.e136b13f01ab4d6bb824498494adbda6.js"
 );
 
 self.addEventListener('message', (event) => {
