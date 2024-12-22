@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chathudya.com/static/css/main.f4b342b7.chunk.css",
-    "main.js": "/chathudya.com/static/js/main.aa435255.chunk.js",
-    "main.js.map": "/chathudya.com/static/js/main.aa435255.chunk.js.map",
-    "runtime~main.js": "/chathudya.com/static/js/runtime~main.870b3f0b.js",
-    "runtime~main.js.map": "/chathudya.com/static/js/runtime~main.870b3f0b.js.map",
-    "static/js/2.5639773c.chunk.js": "/chathudya.com/static/js/2.5639773c.chunk.js",
-    "static/js/2.5639773c.chunk.js.map": "/chathudya.com/static/js/2.5639773c.chunk.js.map",
-    "static/js/3.132715ea.chunk.js": "/chathudya.com/static/js/3.132715ea.chunk.js",
-    "static/js/3.132715ea.chunk.js.map": "/chathudya.com/static/js/3.132715ea.chunk.js.map",
-    "index.html": "/chathudya.com/index.html",
-    "precache-manifest.e136b13f01ab4d6bb824498494adbda6.js": "/chathudya.com/precache-manifest.e136b13f01ab4d6bb824498494adbda6.js",
-    "service-worker.js": "/chathudya.com/service-worker.js",
-    "static/css/main.f4b342b7.chunk.css.map": "/chathudya.com/static/css/main.f4b342b7.chunk.css.map",
-    "static/media/chathudya.jpeg": "/chathudya.com/static/media/chathudya.880aafd9.jpeg"
+    "main.css": "/chathudya-portfolio/static/css/main.f4b342b7.chunk.css",
+    "main.js": "/chathudya-portfolio/static/js/main.e4c69bdd.chunk.js",
+    "main.js.map": "/chathudya-portfolio/static/js/main.e4c69bdd.chunk.js.map",
+    "runtime~main.js": "/chathudya-portfolio/static/js/runtime~main.d0748892.js",
+    "runtime~main.js.map": "/chathudya-portfolio/static/js/runtime~main.d0748892.js.map",
+    "static/js/2.5639773c.chunk.js": "/chathudya-portfolio/static/js/2.5639773c.chunk.js",
+    "static/js/2.5639773c.chunk.js.map": "/chathudya-portfolio/static/js/2.5639773c.chunk.js.map",
+    "static/js/3.132715ea.chunk.js": "/chathudya-portfolio/static/js/3.132715ea.chunk.js",
+    "static/js/3.132715ea.chunk.js.map": "/chathudya-portfolio/static/js/3.132715ea.chunk.js.map",
+    "index.html": "/chathudya-portfolio/index.html",
+    "precache-manifest.2e53701560940193439db616d5ab07db.js": "/chathudya-portfolio/precache-manifest.2e53701560940193439db616d5ab07db.js",
+    "service-worker.js": "/chathudya-portfolio/service-worker.js",
+    "static/css/main.f4b342b7.chunk.css.map": "/chathudya-portfolio/static/css/main.f4b342b7.chunk.css.map",
+    "static/media/chathudya.jpeg": "/chathudya-portfolio/static/media/chathudya.880aafd9.jpeg"
   }
 }
