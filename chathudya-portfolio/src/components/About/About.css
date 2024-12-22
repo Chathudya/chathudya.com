@@ -1,0 +1,24 @@
+.about-section {
+    padding: 20px;
+    background-color: #faf4ef; /* Light beige */
+    color: #6d4e34; /* Dark brown */
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto; /* Center content */
+}
+
+.section-title {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    font-weight: 600;
+    color: #6d4e34;
+}
+
+.section-text {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
