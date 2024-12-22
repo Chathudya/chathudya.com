@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/chathudya-portfolio/static/css/main.f4b342b7.chunk.css",
-    "main.js": "/chathudya-portfolio/static/js/main.e4c69bdd.chunk.js",
-    "main.js.map": "/chathudya-portfolio/static/js/main.e4c69bdd.chunk.js.map",
-    "runtime~main.js": "/chathudya-portfolio/static/js/runtime~main.d0748892.js",
-    "runtime~main.js.map": "/chathudya-portfolio/static/js/runtime~main.d0748892.js.map",
-    "static/js/2.5639773c.chunk.js": "/chathudya-portfolio/static/js/2.5639773c.chunk.js",
-    "static/js/2.5639773c.chunk.js.map": "/chathudya-portfolio/static/js/2.5639773c.chunk.js.map",
-    "static/js/3.132715ea.chunk.js": "/chathudya-portfolio/static/js/3.132715ea.chunk.js",
-    "static/js/3.132715ea.chunk.js.map": "/chathudya-portfolio/static/js/3.132715ea.chunk.js.map",
+    "main.css": "/chathudya-portfolio/static/css/main.f4904898.css",
+    "main.js": "/chathudya-portfolio/static/js/main.fd7ee1b0.js",
+    "static/js/488.68675982.chunk.js": "/chathudya-portfolio/static/js/488.68675982.chunk.js",
+    "static/media/chathudya.jpeg": "/chathudya-portfolio/static/media/chathudya.b7748678b974d4fbd84b.jpeg",
     "index.html": "/chathudya-portfolio/index.html",
-    "precache-manifest.2e53701560940193439db616d5ab07db.js": "/chathudya-portfolio/precache-manifest.2e53701560940193439db616d5ab07db.js",
-    "service-worker.js": "/chathudya-portfolio/service-worker.js",
-    "static/css/main.f4b342b7.chunk.css.map": "/chathudya-portfolio/static/css/main.f4b342b7.chunk.css.map",
-    "static/media/chathudya.jpeg": "/chathudya-portfolio/static/media/chathudya.880aafd9.jpeg"
-  }
+    "main.f4904898.css.map": "/chathudya-portfolio/static/css/main.f4904898.css.map",
+    "main.fd7ee1b0.js.map": "/chathudya-portfolio/static/js/main.fd7ee1b0.js.map",
+    "488.68675982.chunk.js.map": "/chathudya-portfolio/static/js/488.68675982.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4904898.css",
+    "static/js/main.fd7ee1b0.js"
+  ]
 }
