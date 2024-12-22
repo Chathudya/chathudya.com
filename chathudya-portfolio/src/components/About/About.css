@@ -1,23 +1,24 @@
-.about-container {
+.about-section {
+    padding: 20px;
+    background-color: #faf4ef; /* Light beige */
+    color: #6d4e34; /* Dark brown */
     text-align: center;
-    padding: 60px 20px;
 }
 
-.about-container h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-    color: var(--heading-color);
+.container {
+    max-width: 800px;
+    margin: 0 auto; /* Center content */
 }
 
-.about-content p {
-    font-size: 1.1rem;
-    color: var(--text-color);
-    margin-bottom: 20px;
+.section-title {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    font-weight: 600;
+    color: #6d4e34;
 }
 
-.divider {
-    margin: 20px 0;
-    text-align: center;
-    font-size: 1.5rem;
-    color: var(--divider-color);
+.section-text {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 10px;
 }
