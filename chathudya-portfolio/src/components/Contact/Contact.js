@@ -1,14 +1,12 @@
 import React from 'react';
 import './Contact.css'; // Ensure you have a separate CSS file for the Contact component
 import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa';
-
 const Contact = () => {
     return (
         <section id="contact" className="contact-container">
-            <h2>Contact Me</h2>
+            <h2>Contact Me </h2>
             <p>
-                If you’d like to discuss a project or just want to say hi, feel free to reach out.
-                I’d love to hear from you!
+                Let’s collaborate, brainstorm, or simply connect over a cup of virtual ☕️! Whether you have an exciting project or just want to chat, I’d love to hear from you.
             </p>
             <form>
                 <input type="text" placeholder="Your Full Name" required />
@@ -33,5 +31,4 @@ const Contact = () => {
         </section>
     );
 };
-
 export default Contact;
