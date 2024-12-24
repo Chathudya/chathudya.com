@@ -1,0 +1,35 @@
+.home {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #FAF4EF; /* Light beige */
+}
+
+.home h2 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #6D4E34; /* Dark brown */
+}
+
+.home p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    color: #A87C60; /* Rose gold */
+}
+
+.profile-image-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #A87C60; /* Rose gold */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.home {
+    gap: 10px; /* Adjust spacing between elements */
+}

@@ -1,0 +1,54 @@
+.about-section {
+    background-color: #FAF4EF; /* Light beige */
+    text-align: justify; /* Justify the text */
+    padding: 10px 5px;
+    color: #6D4E34; /* Dark brown */
+    font-family: 'Poppins', sans-serif; /* Consistent font */
+    line-height: 1.8; /* Add good line spacing */
+    letter-spacing: 0.5px; /* Improve readability */
+    margin-top: 10px;
+}
+
+.about-section .container {
+    max-width: 800px; /* Restrict width for readability */
+    margin: 0 auto; /* Center the section */
+}
+
+.about-heading {
+    font-size: 2.2rem;
+    text-align: center; /* Center the heading */
+    margin-bottom: 10px;
+    color: #6D4E34; /* Dark brown */
+    font-weight: bold;
+}
+
+.about-text {
+    margin-bottom: 15px; /* Add space between paragraphs */
+    font-size: 1rem;
+    line-height: 1.8; /* Balanced line spacing */
+}
+
+.about-text strong {
+    color: #A87C60; /* Rose gold for emphasis */
+    font-weight: bold;
+}
+
+.about-text em {
+    font-style: italic;
+    color: #6D4E34;
+}
+
+
+.coffee-emoji {
+    display: inline-block;
+    animation: steamEffect 2s infinite;
+}
+
+@keyframes steamEffect {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-5px);
+    }
+}

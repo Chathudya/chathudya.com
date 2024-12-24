@@ -1,0 +1,85 @@
+/* Styles for the Contact section */
+.contact-section {
+    text-align: center;
+    padding: 10px 5px;
+    background-color: #FAF4EF; /* Light beige */
+}
+
+/* Description text */
+.contact-description {
+    font-size: 1rem;
+    color: #A87C60; /* Rose gold */
+    margin-bottom: 20px;
+}
+
+/* Form container */
+.google-form-container {
+    max-width: 800px;
+    margin: 0 auto; /* Center the form */
+    border: 2px solid #A87C60; /* Rose gold border */
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #FFF; /* White background for form */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Button container */
+.back-to-top-container {
+    margin-top: 20px;
+    text-align: center; /* Ensure the button is centered */
+}
+
+/* Back-to-Top button */
+.back-to-top {
+    padding: 10px 20px;
+    background-color: #A87C60; /* Rose gold */
+    color: #FFF; /* White */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.back-to-top:hover {
+    background-color: #6D4E34; /* Dark brown */
+    transform: scale(1.1); /* Slight scaling effect */
+}
+/* Fade-in and slide-up animation */
+@keyframes fadeInSlideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px); /* Start slightly below */
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0); /* End in the original position */
+    }
+}
+
+/* Apply the animation */
+.about-section {
+    animation: fadeInSlideUp 1.5s ease-out;
+    opacity: 1; /* Ensure it's visible */
+}
+
+
+.about-section p:nth-child(1) {
+    animation-delay: 0.2s;
+}
+
+.about-section p:nth-child(2) {
+    animation-delay: 0.4s;
+}
+
+.about-section p:nth-child(3) {
+    animation-delay: 0.6s;
+}
+
+.about-section p:nth-child(4) {
+    animation-delay: 0.8s;
+}
+
+.about-section p {
+    opacity: 0; /* Initially hidden */
+    animation: fadeInSlideUp 1.5s ease-out forwards; /* Apply animation with delay */
+}

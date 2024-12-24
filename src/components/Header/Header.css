@@ -1,0 +1,16 @@
+.header {
+    padding: 20px;
+    text-align: center;
+    background-color: #6D4E34;
+    color: #FFF;
+}
+.header h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 1.2rem;
+    color: #A87C60; /* Rose gold */
+}
+
