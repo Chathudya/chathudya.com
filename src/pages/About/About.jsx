@@ -27,8 +27,7 @@ function About() {
                     </p>
                     <p className="about-text">
                         Outside of work, I’m a bookworm 📚, diving into productivity guides, testing manuals, and
-                        captivating fiction (I’m slightly obsessed with
-                        <strong>A Court of Thorns and Roses</strong>).
+                        captivating fiction.
                     </p>
                     <p className="about-text">
                         What fuels me? A mix of <strong>humor</strong>, <strong>thoughtful discussions</strong>, and the
