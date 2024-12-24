@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chathudya.com/static/css/main.4b3454b1.css",
-    "main.js": "/chathudya.com/static/js/main.13e3618d.js",
+    "main.js": "/chathudya.com/static/js/main.9b2ba7d6.js",
     "static/js/488.d13d6675.chunk.js": "/chathudya.com/static/js/488.d13d6675.chunk.js",
     "index.html": "/chathudya.com/index.html",
     "main.4b3454b1.css.map": "/chathudya.com/static/css/main.4b3454b1.css.map",
-    "main.13e3618d.js.map": "/chathudya.com/static/js/main.13e3618d.js.map",
+    "main.9b2ba7d6.js.map": "/chathudya.com/static/js/main.9b2ba7d6.js.map",
     "488.d13d6675.chunk.js.map": "/chathudya.com/static/js/488.d13d6675.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b3454b1.css",
-    "static/js/main.13e3618d.js"
+    "static/js/main.9b2ba7d6.js"
   ]
 }
