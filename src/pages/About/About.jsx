@@ -2,42 +2,23 @@ import React from 'react';
 import './About.css';
 
 function About() {
-    return (
-        <div className="about" id="about">
-            <section id="about" className="about-section">
-                <div className="container">
-                    <h2 className="about-heading">🌟 About Me</h2>
-                    <p className="about-text">
-                        Hi, I’m a <strong>Software Quality Assurance Engineer</strong> with a mission to craft seamless
-                        and reliable digital experiences.
-                        With <strong>2+ years of expertise</strong> in <strong>functional
-                        testing</strong>, <strong>automation</strong>, and <strong>agile methodologies</strong>,
-                        I thrive on breaking things intentionally (so they don’t break unintentionally when it matters
-                        most).
-                    </p>
-                    <p className="about-text">
-                        When I’m not ensuring apps are glitch-free, you’ll find me on my yoga mat 🧘‍♀️, balancing body
-                        and mind (because even critical bugs can’t disrupt my zen).
-                        <p className="about-text">
-                            And, let’s be honest, my day isn’t complete without at least two cups of coffee <span
-                            className="coffee-emoji">☕
-                        </span>—the unofficial fuel for every QA engineer.
-                        </p>
-
-                    </p>
-                    <p className="about-text">
-                        Outside of work, I’m a bookworm 📚, diving into productivity guides, testing manuals, and
-                        captivating fiction.
-                    </p>
-                    <p className="about-text">
-                        What fuels me? A mix of <strong>humor</strong>, <strong>thoughtful discussions</strong>, and the
-                        pursuit of glitch-free apps—because every app deserves to sparkle! ✨
-                    </p>
-                </div>
-            </section>
-
-        </div>
-    );
+  return (
+    <section id="about" className="about-section">
+      <div className="container">
+        <h2 className="about-heading">🌟 About Me</h2>
+        <p className="about-text">
+          Hey, I’m <strong>Chathudya</strong>, a QA engineer who vibes with breaking stuff (on purpose) so the rest of the world doesn’t have to. I’m all about squashing bugs, writing slick Java code, and making sure every app runs smoother than your favorite playlist.
+        </p>
+        <p className="about-text">
+          Whether it’s automating tests, flexing my API skills with <strong>Postman</strong>, or sprinkling Python magic into workflows, I keep things functional—and a little extra. My motto? If it’s glitchy, it’s gotta go.
+        </p>
+        <p className="about-text">
+          When I’m not making apps sparkle, you’ll find me in my zen zone on a yoga mat 🧘‍♀️ or sipping 
+          <span className="coffee-emoji" role="img" aria-label="coffee">☕</span> like it’s a life hack (because it is). Apps deserve their main-character moment, and I’m here to deliver it. ✨
+        </p>
+      </div>
+    </section>
+  );
 }
 
 export default About;
