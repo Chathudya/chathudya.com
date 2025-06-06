@@ -1,0 +1,18 @@
+.experience-section {
+    background-color: #FAF4EF;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.experience-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 500px;
+}
+
+.experience-list li {
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: #6D4E34;
+}
